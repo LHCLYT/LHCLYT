@@ -21,8 +21,13 @@ Si... CactusFire, algunos ya lo conocereis como uno de los principales bots de h
 * [Proxima Web](https://cactusfire.xyz)
 * [Discord Soporte](https://discord.gg/JfUmDjX)
 * [Top.GG](https://top.gg/bot/543567770579894272)
-* [Video de Yupi (antiguo)](https://www.youtube.com/watch?v=KBeZK1DEcao)
+* [Video TutoDiscord](https://www.youtube.com/watch?v=3jyNHcfJlcE)
 * [Video del Creador (antiguo)](https://www.youtube.com/watch?v=IuHAIxJnBBA)
+* [Video Kamerr](https://youtu.be/w2gn7W--aCQ)
+* [Video ElRaccion](https://www.youtube.com/watch?v=aRyncVaFX5g)
+* [Video Maki](https://youtu.be/M0o0WZIh22A)
+* [Video Kuro](https://www.youtube.com/watch?v=AlY4YiVQyQE)
+* [Video de Yupi (antiguo)](https://www.youtube.com/watch?v=KBeZK1DEcao)
 * [ReadMe en Github](https://github.com/LHCLYT/CactusFireDocs)
 
 
