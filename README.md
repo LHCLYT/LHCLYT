@@ -11,6 +11,11 @@ Actualmente programo con **JavaScript**, aunque sigo aprendiendo diferentes leng
 Ahora mismo solo tengo un proyecto enmente **CactusFire**.
 Si... CactusFire, algunos ya lo conocereis como uno de los principales bots de hablahispana de discord, aqui abajo podreis encontrar mas informacion sobre CactusFire
 
+## ⤳ 📝  Conocimientos:
+* Javascript (50%)
+* MongoDB (50%)
+* Discord.js (en desarollo de Javascript)
+
 ## ⤳ 🌵  CactusFire: 
 * [Web Oficial](https://github.com/KamerrEzz/zeewapi)
 * [Proxima Web](https://cactusfire.xyz)
@@ -19,6 +24,8 @@ Si... CactusFire, algunos ya lo conocereis como uno de los principales bots de h
 * [Video de Yupi (antiguo)](https://www.youtube.com/watch?v=KBeZK1DEcao)
 * [Video del Creador (antiguo)](https://www.youtube.com/watch?v=IuHAIxJnBBA)
 * [ReadMe en Github](https://github.com/LHCLYT/CactusFireDocs)
+
+
 ## ⤳ 📫  Contacto: 
 
 |              MEDIA             	|       NOMBRE       	|
