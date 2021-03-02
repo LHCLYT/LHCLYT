@@ -30,6 +30,7 @@ Si... CactusFire, algunos ya lo conocereis como uno de los principales bots de h
 
 |              MEDIA             	|       NOMBRE       	|
 |:----------------------------:	|:-------------------:	|
+| 📧  	| lhclyt@thcommunity.xyz	|
 | 📧  	| cactusfirebot@gmail.com	|
 | ![Discord](https://media.discordapp.net/attachments/763587528083112016/789207824521625680/1200px-Font_Awesome_5_brands_discord_color.svg.png?width=25&height=25) 	| [CactusFire Discord](https://discord.gg/JfUmDjX)	|
 | ![Twitter](https://i.imgur.com/HeZ0zJn.png) 	| [CactusFire en TWITTER](https://twitter.com/CactusFire/)	|
