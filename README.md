@@ -14,6 +14,7 @@ Si... CactusFire, algunos ya lo conocereis como uno de los principales bots de h
 ## ⤳ 📝  Conocimientos:
 * Javascript (50%)
 * MongoDB (50%)
+* MySQL (25%)
 * Discord.js (en desarollo de Javascript)
 
 ## ⤳ 🌵  CactusFire: 
