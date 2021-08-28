@@ -22,8 +22,8 @@ Desarollador de Javascript, trabajando en base a:
 ## ⤳ 🌵  CactusFire: 
 * [Web Oficial](https://cactusfire.xyz)
 * [Soporte CactusFire](https://discord.cactusfire.xyz)
-* [Invitación CactusFire](https://discord.cactusfire.xyz)
-* [Documentación CacusFire](https://github.com/LHCLYT/CactusFireDocs)
+* [Invitación CactusFire](https://invite.cactusfire.xyz)
+* [Documentación CacusFire](https://cactusfire.xyz/docs)
 * [Top.gg](https://top.gg/bot/543567770579894272)
 
 
