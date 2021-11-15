@@ -12,9 +12,9 @@ Ahora mismo solo tengo un proyecto enmente **CactusFire**.
 Si... CactusFire, algunos ya lo conocereis como uno de los principales bots de hablahispana de discord, aqui abajo podreis encontrar mas informacion sobre CactusFire
 
 ## ⤳ 📝  Conocimientos:
-* Javascript (75%)
-* MySQL (50%)
-* MongoDB (25%)
+* Javascript
+* MySQL
+* MongoDB
 
 Desarollador de Javascript, trabajando en base a:
 * Discord.js (en desarollo de Javascript)
