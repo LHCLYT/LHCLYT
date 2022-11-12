@@ -1,7 +1,7 @@
 
 <h3 align="center">👋 ⤏ ¡Hola! Soy LHCLYT</h3>
 <p align="center">
-  <a href="https://lhclyt.xyz/">Web</a>
+  <a href="https://lhclyt.space/">Web</a>
   <a href="https://discord.gg/JfUmDjX">Discord</a>
 </p>
 
